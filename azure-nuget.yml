@@ -50,7 +50,7 @@ steps:
   displayName: 'Publish NuGet package'
   inputs:
     command: push
-    feedPublish: '$(System.TeamProject)/丂丄狚狛狜狝﨨﨩ˊˋ˙–⿻〇㐀㐁䶴䶵'
+    feedPublish: '$(System.TeamProject)/艾碍爱隘鼾D2丠両狛丣囆'
     allowPackageConflicts: true
   condition: succeeded()
 
