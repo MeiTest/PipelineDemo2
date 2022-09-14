@@ -1,3 +1,4 @@
+trigger: none
 pool: Default
 
 variables:
@@ -24,7 +25,7 @@ steps:
     projects: '**/*.csproj'
 
 - task: DotNetCoreCLI@2
-  displayName: 'Pack the project - $(buildConfiguration)'
+  displayName: '将项目打包：姜将浆江疆蒋亍丌D2囕囖囘並丩丮丯丱D3琀琁琂琄琇琈琋琌D4」『』【±÷D1╬╲╳D5U1U2U3䀆䀇䀈䀌䶫䶬A+,-345S'
   inputs:
     command: 'pack'
     projects: '**/*.csproj'
